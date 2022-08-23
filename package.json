@@ -1,7 +1,6 @@
 {
   "name": "a",
   "version": "0.1.0",
-  "homepage": "https://Oleh19.github.io/junior-applications/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -46,5 +45,6 @@
     "gh-pages": "^4.0.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
-  }
+  },
+  "homepage": "http://Oleh19.github.io/"
 }
