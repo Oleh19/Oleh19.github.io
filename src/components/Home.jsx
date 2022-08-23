@@ -5,7 +5,7 @@ function Home() {
     return (
         <>
             <Layout />
-            <div className="text-5xl text-white bg-opacity-0 font-semibold absolute top-2/4 left-10 text-center z-50 px-2">
+            <div className="text-customsq text-white bg-opacity-0 font-semibold absolute top-2/4 left-10 text-center z-50 px-2">
                 You can choouse one options from above
             </div>
         </>
